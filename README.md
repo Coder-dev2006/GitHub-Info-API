@@ -1,15 +1,15 @@
-# 🧠 GitHub Info API
+#  GitHub Info API
 GitHub foydalanuvchi ma’lumotlarini olish uchun yozilgan oddiy REST API.
 API Flask yordamida yaratilgan va GitHub’ning ochiq API’sidan ma’lumotlarni oladi.
 U foydalanuvchi nomi, bio, repositorylar soni, kuzatuvchilar (followers) va boshqa ma’lumotlarni JSON formatda qaytaradi.
 
-# 🚀 Xususiyatlar
+#  Xususiyatlar
 GitHub foydalanuvchi ma’lumotlarini JSON formatda chiqaradi
 Flask va Requests kutubxonalari asosida ishlaydi
 Oddiy, tez va portfolio uchun mos loyiha
 Har qanday GitHub username bilan ishlaydi
 
-# ⚙️ O‘rnatish
+#  O‘rnatish
 Repozitoriyani klonla:
 git clone https://github.com/Coder-dev2006/github-info-api.git
 cd github-info-api
@@ -20,7 +20,7 @@ pip install flask requests
 # Dastur faylini ishga tushir:
 python github_api.py
 
-# 🌐 Foydalanish
+#  Foydalanish
 Brauzerda yoki Postman’da och:
 http://127.0.0.1:5000/profile
 
@@ -35,15 +35,15 @@ http://127.0.0.1:5000/profile
   "github_url": "https://github.com/Coder-dev2006"
 }
 
-# 🧰 Foydalanilgantexnologiyalar
-🐍 Python 3
-⚙️ Flask
-🌍 Requests
-💾 GitHub API
+#  Foydalanilgantexnologiyalar
+ Python 3
+ Flask
+ Requests
+ GitHub API
 
-# 🧑‍💻 Muallif
+#  Muallif
 Fayziyev Samandar
-📎 GitHub: Coder-dev2006
-# 📜 Litsenziya
+ GitHub: Coder-dev2006
+#  Litsenziya
 Ushbu loyiha MIT litsenziyasi ostida tarqatiladi.
 Erkin o‘zgartirib, foydalanishingiz mumkin.
